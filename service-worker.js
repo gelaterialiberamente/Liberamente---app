@@ -1,4 +1,6 @@
-const CACHE_NAME = 'liberamente-v1';
+importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
+
+const CACHE_NAME = 'liberamente-v2';
 const urlsToCache = [
   '/Liberamente---app/',
   '/Liberamente---app/index.html'
